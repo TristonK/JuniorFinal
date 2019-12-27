@@ -8,7 +8,7 @@
 
 * [复习计划](shu-ju-ku/fu-xi-ji-hua.md)
 * [数据库系统概述](shu-ju-ku/shu-ju-ku-xi-tong-gai-shu.md)
-* 数据模型
+* [数据模型](shu-ju-ku/shu-ju-mo-xing.md)
 * 关系数据库系统
 * SQL语言
 * 数据库安全性与完整性
