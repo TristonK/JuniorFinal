@@ -12,7 +12,7 @@
 * [关系数据库系统](shu-ju-ku/guan-xi-shu-ju-ku-xi-tong.md)
 * [SQL语言](shu-ju-ku/sqlyu-yan.md)
 * [数据库安全性与完整性](shu-ju-ku/shu-ju-ku-an-quan-xing-yu-wan-zheng-xing.md)
-* 事务管理、并发与故障处理
+* [事务管理、并发与故障处理](shu-ju-ku/shi-wu-guan-li-3001-bing-fa-yu-gu-zhang-chu-li.md)
 * 游标管理与索引
 * 关系数据库规范化理论
 * 数据库设计
