@@ -11,7 +11,7 @@
 * [数据模型](shu-ju-ku/shu-ju-mo-xing.md)
 * [关系数据库系统](shu-ju-ku/guan-xi-shu-ju-ku-xi-tong.md)
 * [SQL语言](shu-ju-ku/sqlyu-yan.md)
-* 数据库安全性与完整性
+* [数据库安全性与完整性](shu-ju-ku/shu-ju-ku-an-quan-xing-yu-wan-zheng-xing.md)
 * 事务管理、并发与故障处理
 * 游标管理与索引
 * 关系数据库规范化理论
