@@ -7,7 +7,7 @@
 ## 数据库
 
 * [复习计划](shu-ju-ku/fu-xi-ji-hua.md)
-* 数据库系统概述
+* [数据库系统概述](shu-ju-ku/shu-ju-ku-xi-tong-gai-shu.md)
 * 数据模型
 * 关系数据库系统
 * SQL语言
