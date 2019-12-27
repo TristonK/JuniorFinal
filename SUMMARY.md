@@ -10,7 +10,7 @@
 * [数据库系统概述](shu-ju-ku/shu-ju-ku-xi-tong-gai-shu.md)
 * [数据模型](shu-ju-ku/shu-ju-mo-xing.md)
 * [关系数据库系统](shu-ju-ku/guan-xi-shu-ju-ku-xi-tong.md)
-* SQL语言
+* [SQL语言](shu-ju-ku/sqlyu-yan.md)
 * 数据库安全性与完整性
 * 事务管理、并发与故障处理
 * 游标管理与索引
