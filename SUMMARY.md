@@ -15,3 +15,7 @@
 * [关系数据库规范化理论](shu-ju-ku/guan-xi-shu-ju-ku-gui-fan-hua-li-lun.md)
 * [数据库设计](shu-ju-ku/shu-ju-ku-she-ji.md)
 
+## 组合数学
+
+* [复习计划](zu-he-shu-xue/fu-xi-ji-hua.md)
+
