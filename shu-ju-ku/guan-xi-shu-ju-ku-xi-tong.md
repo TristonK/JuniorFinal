@@ -106,6 +106,15 @@
 * 属性名次序无关性
 * 分量值域同一性
 
+Relational Rules：
+* Rule 1. First Normal Form Rule：Can't have multi-valued fields.
+* Rule 2. Access Rows by Content Only Rule
+  * No order to the rows
+  * No order to the columns
+* Rule 3. The Unique Row Rule
+  * Two rows can't be same in all attributes at once. So that a relation is an unordered SET of tuples. 
+  * But many products allow this for efficiency of load.
+
 每个**关系**都有一个名称**关系名**，关系中的每一个属性有一个名称**属性名**，关系名和所有的属性名构成了**关系框架**
 
 超键：set of colunms that has the uniqueness property
