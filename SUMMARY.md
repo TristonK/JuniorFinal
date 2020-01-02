@@ -14,6 +14,8 @@
 * [游标管理与索引](database/data-exchange.md)
 * [关系数据库规范化理论](database/normal-form.md)
 * [数据库设计](database/db-design.md)
+* [思考题与作业题](database/homework.md)
+* [样卷复习法](database/sample-exam.md)
 
 ## 组合数学 <a id="combinatorics"></a>
 
